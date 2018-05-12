@@ -1,10 +1,16 @@
 _repo: The-Sacred-Tree-or-the-tree-in-religion-and-myth_47215
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47215-h/images/cover.jpg
 creator:
   author:
     agent_name: Philpot, J. H.
     gutenberg_agent_id: '44196'
     url: http://www.gutenberg.org/2009/agents/44196
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47215#The-Sacred-Tree-or-the-tree-in-religion-and-myth
 gutenberg_issued: '2014-10-28'
 gutenberg_type: Text
 identifiers:
